@@ -1,4 +1,4 @@
-# WordPress Playground tools
+# WordPress devtools
 
 This repository contains the tools and applications built using [WordPress Playground](https://developer.wordpress.org/playground/):
 
@@ -24,4 +24,4 @@ You'll find the built assets in the dist directory. You can make changes, run th
 
 ## Contributing
 
-Playground Tools are in their early days. If the feature you need is missing, you are more than welcome to start a discussion, open an issue, and even propose a Pull Request to implement it.
+Wordpress devtools are in their early days. If the feature you need is missing, you are more than welcome to start a discussion, open an issue, and even propose a Pull Request to implement it.
